@@ -7,8 +7,8 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-      - name: print env variables in job1
-        run: echo $VAR1
+      - nsdfsdfsame: print env variables in job1
+        rsdfun: echo $VAR1
         env:
           VAR1: JOB1 TRIGGERD
 
